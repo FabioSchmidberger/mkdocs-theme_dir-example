@@ -22,9 +22,9 @@ tellus, in faucibus justo sem vitae justo. Proin egestas quis mi eu imperdiet.
 ![](image2.png)
 
 ## light HTML
-<a href="image.png" data-lightbox="image" style="max-height:100px">
+
 ![](image.png)
-</a>
+
 
 <a href="image2.png" data-lightbox="image" >
 ![](image2.png)
@@ -35,9 +35,8 @@ tellus, in faucibus justo sem vitae justo. Proin egestas quis mi eu imperdiet.
 
 ## Mit HTML Link
 
-<a href="https://unsplash.it/1200/768.jpg?image=250" data-lightbox="image" data-title="A random title" data-footer="A custom footer text">
-    <img src="https://unsplash.it/300.jpg?image=250" class="img-fluid">
-</a>
+<img src="https://unsplash.it/300.jpg?image=250" class="img-fluid">
+
 
 Aenean aliquet commodo risus, sed interdum quam ultricies nec. Ut et nibh
 lobortis, placerat magna quis, vehicula turpis. Suspendisse condimentum

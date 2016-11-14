@@ -4,3 +4,6 @@ theme: readthedocs
 theme_dir: custom_theme
 
 
+extra_javascript:
+            - custom-js/script.js
+
