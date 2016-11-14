@@ -19,6 +19,7 @@ tellus, in faucibus justo sem vitae justo. Proin egestas quis mi eu imperdiet.
 
 ## Ohne HTML
 
+![](image2.png)
 
 ## light HTML
 <a href="image.png" data-lightbox="image" style="max-height:100px">
@@ -28,6 +29,7 @@ tellus, in faucibus justo sem vitae justo. Proin egestas quis mi eu imperdiet.
 <a href="image2.png" data-lightbox="image" >
 ![](image2.png)
 </a>
+
 
 
 
