@@ -9,7 +9,31 @@ tellus, in faucibus justo sem vitae justo. Proin egestas quis mi eu imperdiet.
 
 ## Click this image to view it in a lightbox...
 
+
+```
 <a href="https://unsplash.it/1200/768.jpg?image=250" data-toggle="lightbox" data-title="A random title" data-footer="A custom footer text">
+    <img src="https://unsplash.it/300.jpg?image=250" class="img-fluid">
+</a>
+```
+
+
+## Ohne HTML
+
+
+## light HTML
+<a href="image.png" data-lightbox="image" style="max-height:100px">
+![](image.png)
+</a>
+
+<a href="image2.png" data-lightbox="image" >
+![](image2.png)
+</a>
+
+
+
+## Mit HTML Link
+
+<a href="https://unsplash.it/1200/768.jpg?image=250" data-lightbox="image" data-title="A random title" data-footer="A custom footer text">
     <img src="https://unsplash.it/300.jpg?image=250" class="img-fluid">
 </a>
 
